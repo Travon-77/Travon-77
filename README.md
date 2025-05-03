@@ -2,7 +2,7 @@
 
 Welcome to my corner of GitHub! I'm a Business Intelligence Analyst with a sharp eye for uncovering patterns, transforming raw data into meaningful insights, and helping businesses make smarter decisions. I recently earned my BI Analytics certification from **Tripleten**, and I'm passionate about combining logic with creativity to solve real-world problems through data.
 
-## 💼 What I Do
+## 💻  What I Do
 - Analyze datasets to discover trends, opportunities, and business insights  
 - Build interactive dashboards that speak louder than spreadsheets  
 - Turn messy data into crystal-clear stories for stakeholders
