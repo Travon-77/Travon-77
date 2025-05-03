@@ -27,6 +27,7 @@ I'm a Business Intelligence Analyst with a sharp eye for uncovering patterns, tr
 
 - 🛍️ **E-Commerce User Activity & Cohort Analysis**  
   Conducted funnel and retention analysis using Excel. Revealed user behavior patterns and drop-off points, providing insights to improve conversions and customer engagement over time.
+  [E-Commerce_Store_User_Activity](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/E-Commerce%20Store%20User%20Activity)
 
 ## 🧩 A Few Things About Me  
 - I see data as a tool for uncovering deeper insights and making thoughtful decisions.  
