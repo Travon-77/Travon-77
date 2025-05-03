@@ -1,6 +1,8 @@
-# 👋 Hey there, I'm Travon — BI Analyst | Data Explorer | Storyteller with SQL
+![GitHub Banner](https://github.com/Travon-77/Travon-77/blob/main/GitHub%20Banner.jpg) 
 
-Welcome to my corner of GitHub! I'm a Business Intelligence Analyst with a sharp eye for uncovering patterns, transforming raw data into meaningful insights, and helping businesses make smarter decisions. I recently earned my BI Analytics certification from **Tripleten**, and I'm passionate about combining logic with creativity to solve real-world problems through data.
+BI Analyst | Data Explorer | Storyteller with SQL
+
+I'm a Business Intelligence Analyst with a sharp eye for uncovering patterns, transforming raw data into meaningful insights, and helping businesses make smarter decisions. I recently earned my BI Analytics certification from **Tripleten**, and I'm passionate about combining logic with creativity to solve real-world problems through data.
 
 ## 💻  What I Do
 - Analyze datasets to discover trends, opportunities, and business insights  
