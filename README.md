@@ -17,6 +17,7 @@ I'm a Business Intelligence Analyst with a sharp eye for uncovering patterns, tr
 - **Business Thinking** – Asking the right questions and thinking like a decision-maker
 
 ## 🚀 Projects Worth Exploring
+📁[Let's Dive In](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects)
 - 📊 **Zomato Sales Analysis** 
   Analyzed regional sales performance and identified key revenue drivers. Built Tableau dashboards that increased visibility into seasonal trends and guided data-backed marketing strategies.
  [Zomato_Sales_analysis](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/Zomato%20Sales%20Analysis)
