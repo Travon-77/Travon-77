@@ -23,7 +23,7 @@ I'm a Business Intelligence Analyst with a sharp eye for uncovering patterns, tr
  [Zomato_Sales_analysis](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/Zomato%20Sales%20Analysis)
 
 - 📈 **Superstore Sales Analysis**  
-  Used SQL, Excel, and Tableau to uncover top-performing regions and products. Recommended optimized ad spend and inventory focus areas based on ROI and return rates.
+  Used Excel and Tableau to uncover top-performing regions and products. Recommended optimized ad spend and inventory focus areas based on ROI and return rates.
   [Superstore_Analysis](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/Superstore-Returns-Analysis)
 
 - 🛍️ **E-Commerce User Activity & Cohort Analysis**  
