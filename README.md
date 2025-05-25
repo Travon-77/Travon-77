@@ -6,15 +6,15 @@ Data professional with 2+ years of experience in data analytics and healthcare o
 Adept at data storytelling, data cleaning, KPI tracking, and data visualization to support strategic decision-making.
 ## Projects Worth Exploring
 📁[Let's Dive In](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects)
-- 📊 **Zomato Sales Analysis** 
+-  **Zomato Sales Analysis** 
   Analyzed regional sales performance and identified key revenue drivers. Built Tableau dashboards that increased visibility into seasonal trends and guided data-backed marketing strategies.
  [Zomato_Sales_analysis](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/Zomato%20Sales%20Analysis)
 
-- 📈 **Superstore Sales Analysis**  
+-  **Superstore Sales Analysis**  
   Used Excel and Tableau to uncover top-performing regions and products. Recommended optimized ad spend and inventory focus areas based on ROI and return rates.
   [Superstore_Analysis](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/Superstore-Returns-Analysis)
 
-- 🛍️ **E-Commerce User Activity & Cohort Analysis**  
+-  **E-Commerce User Activity & Cohort Analysis**  
   Conducted funnel and retention analysis using Excel. Revealed user behavior patterns and drop-off points, providing insights to improve conversions and customer engagement over time.
   [E-Commerce_Store_User_Activity](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/E-Commerce%20Store%20User%20Activity)
 ## Core Skills
