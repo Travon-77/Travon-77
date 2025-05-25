@@ -4,14 +4,12 @@ BI Analyst | Data Explorer | Storyteller with SQL
 
 Data professional with 2+ years of experience in data analytics and healthcare operations, skilled in Excel, SQL, Power BI, and Tableau.
 Adept at data storytelling, data cleaning, KPI tracking, and data visualization to support strategic decision-making.
-
 ## Core Skills
 - **Technical** – MS Excel, Power BI, DAX, Tableau, SQL Server, MySQL, PostgreSQL 
 - **Analytics** – Business Intelligence, Data Cleaning, Data Analysis, KPI Tracking, Statistical Analysis, Database, Reporting 
 - **Tools** – MS Office, Salesforce, GitHub 
 - **Soft** – Communication, Attention to Detail, Requirements Gathering, Team Collaboration, Data Storytelling, Stakeholder
 Reporting, Problem Solving, Project Management, Account Management
-
 ## Projects Worth Exploring
 📁[Let's Dive In](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects)
 - 📊 **Zomato Sales Analysis** 
@@ -25,7 +23,6 @@ Reporting, Problem Solving, Project Management, Account Management
 - 🛍️ **E-Commerce User Activity & Cohort Analysis**  
   Conducted funnel and retention analysis using Excel. Revealed user behavior patterns and drop-off points, providing insights to improve conversions and customer engagement over time.
   [E-Commerce_Store_User_Activity](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/E-Commerce%20Store%20User%20Activity)
-
 ## A Few Things About Me  
 I’m a big fan of spontaneous adventures, deep conversations, and getting lost in museums.
 I’m all about cozy café vibes, National Geographic documentaries, and late-night curiosity rabbit holes.
