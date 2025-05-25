@@ -1,6 +1,6 @@
 ![GitHub Banner](https://github.com/Travon-77/Travon-77/blob/main/GitHub%20Banner.jpg) 
 
-BI Analyst | Data Explorer | Storyteller with SQL
+BI Analyst | Data Analyst | Operations Analyst  | Data Storyteller 
 
 Data professional with 2+ years of experience in data analytics and healthcare operations, skilled in Excel, SQL, Power BI, and Tableau.
 Adept at data storytelling, data cleaning, KPI tracking, and data visualization to support strategic decision-making.
