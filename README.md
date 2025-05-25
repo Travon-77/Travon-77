@@ -2,7 +2,8 @@
 
 BI Analyst | Data Explorer | Storyteller with SQL
 
-I'm a Business Intelligence Analyst with a sharp eye for uncovering patterns, transforming raw data into meaningful insights, and helping businesses make smarter decisions. I recently earned my BI Analytics certification from **Tripleten**, and I'm passionate about combining logic with creativity to solve real-world problems through data.
+Data professional with 2+ years of experience in data analytics and healthcare operations, skilled in Excel, SQL, Power BI, and Tableau.
+Adept at data storytelling, data cleaning, KPI tracking, and data visualization to support strategic decision-making.
 
 ## 💻  What I Do
 - Analyze datasets to discover trends, opportunities, and business insights  
@@ -10,11 +11,12 @@ I'm a Business Intelligence Analyst with a sharp eye for uncovering patterns, tr
 - Turn messy data into crystal-clear stories for stakeholders
 
 ## 🧠 Core Skills
-- **SQL** – Querying, data extraction, joins, subqueries, and aggregations  
-- **Excel** – Advanced formulas, pivot tables, and data cleaning  
-- **Tableau & Power BI** – Crafting intuitive, interactive dashboards  
-- **Data Analysis** – Exploratory analysis, trend detection, KPI monitoring  
-- **Business Thinking** – Asking the right questions and thinking like a decision-maker
+- **Technical** – MS Excel, Power BI, DAX, Tableau, SQL Server, MySQL, PostgreSQL 
+- **Analytics** – Business Intelligence, Data Cleaning, Data Analysis, KPI Tracking, Statistical Analysis, Database, Reporting 
+- **Tools** – MS Office, Salesforce, GitHub 
+- **Soft** – Communication, Attention to Detail, Requirements Gathering, Team Collaboration, Data Storytelling, Stakeholder
+Reporting, Problem Solving, Project Management, Account Management
+
 
 ## 🚀 Projects Worth Exploring
 📁[Let's Dive In](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects)
