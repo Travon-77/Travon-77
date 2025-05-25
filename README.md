@@ -30,7 +30,7 @@ Add in a good playlist, a scenic walk, and a random fun fact — and I’m in my
 
 > "Find what you love and let it kill you" Charles Bukowski
 
-## 📫 Let's Connect
+## 🔗 Let's Connect
 Feel free to reach out, collaborate, or just say hello!  
 🌐 [www.linkedin.com/in/travonwalton](https://www.linkedin.com/in/travonwalton)  
 📧 v.malikcollection@outlook.com  
